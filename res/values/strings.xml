@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">dialog</string>
+    <string name="click_me1">Show dialog1 click me !</string>
+    <string name="click_me2">Show dialog2 click me !</string>
+    <string name="click_me3">Show dialog3 click me !</string>
+    <string name="click_me4">Show dialog4 click me !</string>
+
+
+    <string name="custom_dialog_title">タイトル</string>
+    <string name="custom_dialog_close_button">閉じる</string>
+    <string name="custom_dialog_yes_button">はい</string>
+    <string name="custom_dialog_no_button">いいえ</string>
+    <string name="custom_dialog_mess1">メッセージとかなんとか。</string>
+    <string name="custom_dialog_mess2">クリックするとテキストをトーストに表示します。</string>
+
+
+</resources>

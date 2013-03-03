@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="custom_dialog_background">#cdcdcdcd</color>
+    <color name="custom_dialog_title_foreground">#ffffff</color>
+    <color name="custom_dialog_body_linearlayout">#ffffff</color>
+    <color name="custom_dialog_text_foreground">#000000</color>
+    <color name="custom_dialog_button_foreground">#ffffff</color>
+</resources>
